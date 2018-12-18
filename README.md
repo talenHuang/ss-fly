@@ -1,3 +1,8 @@
+### 本人的搬瓦工需要在安装前执行下面代码,否则会报错！
+```sh
+apt-get -f install
+```
+
 一键脚本安装shadowsocks/shadowsocksR/V2Ray + 开启bbr
 ---
 
